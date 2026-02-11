@@ -87,5 +87,5 @@ Após todas as validações, a Lambda retorna uma URL curta que leva o usuário 
 
 ## 🤝 Colaboradores
 
-| [Daniel Sodré](https://github.com/joaovfarah) |
+| [João Victor Farah](https://github.com/joaovfarah) |
 | :--------------------------------------------: |
